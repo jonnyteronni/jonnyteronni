@@ -1,6 +1,6 @@
 ### Hi I'm João 👋 
 
-![Screenshot](img/JS.jpg)
+![Screenshot](JS.jpg)
 <!--
 <img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2017/11/Best-Python-Machine-Learning-Libraries-1.png" alt="wip banner">
 
