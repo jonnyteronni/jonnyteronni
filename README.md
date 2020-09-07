@@ -1,7 +1,13 @@
-### Hi I'm João 👋 
-<img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2017/11/Best-Python-Machine-Learning-Libraries-1.png" alt="wip banner">
+
+
+[![Jason Lengstorf has a lot of ideas.](https://raw.githubusercontent.com/jonnyteronni/jonnyteronni/master/img/JS.jpg)](https://www.jason.af)
 <!--
+<img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2017/11/Best-Python-Machine-Learning-Libraries-1.png" alt="wip banner">
+![ScreenShot](https://github.com/jonnyteronni/jonnyteronni/tree/master/img/JS.jpg)
+![Screenshot](jonnyteronni/JS.jpg)
 **jonnyteronni/jonnyteronni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi I'm João 👋 
 
 Here are some ideas to get you started:
 
