@@ -1,6 +1,6 @@
 
 
-[![Jason Lengstorf has a lot of ideas.](https://raw.githubusercontent.com/jonnyteronni/jonnyteronni/master/img/JS.jpg)](https://www.jason.af)
+[![João Soeiro](https://raw.githubusercontent.com/jonnyteronni/jonnyteronni/master/img/datajoao.png)](https://www.linkedin.com/in/joaosoeiro/)
 <!--
 <img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2017/11/Best-Python-Machine-Learning-Libraries-1.png" alt="wip banner">
 ![ScreenShot](https://github.com/jonnyteronni/jonnyteronni/tree/master/img/JS.jpg)
