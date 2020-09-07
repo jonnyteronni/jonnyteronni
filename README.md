@@ -1,10 +1,11 @@
 ### Hi I'm João 👋 
 
 
-![ScreenShot](https://github.com/jonnyteronni/jonnyteronni/tree/master/img/JS.jpg)
+
+<img src="https://github.com/jonnyteronni/jonnyteronni/tree/master/img/JS.jpg" alt="wip banner">
 <!--
 <img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2017/11/Best-Python-Machine-Learning-Libraries-1.png" alt="wip banner">
-
+![ScreenShot](https://github.com/jonnyteronni/jonnyteronni/tree/master/img/JS.jpg)
 ![Screenshot](jonnyteronni/JS.jpg)
 **jonnyteronni/jonnyteronni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
