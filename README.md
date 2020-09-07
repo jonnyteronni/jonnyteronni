@@ -1,7 +1,7 @@
 ### Hi I'm João 👋 
 
 
-![ScreenShot](https://github.com/{jonnyteronni}/{jonnyteronni}/{Master}/{img/JS.jpg})
+![ScreenShot](https://github.com/{jonnyteronni}/{jonnyteronni}/{master}/{img/JS.jpg})
 <!--
 <img src="https://www.thecrazyprogrammer.com/wp-content/uploads/2017/11/Best-Python-Machine-Learning-Libraries-1.png" alt="wip banner">
 
